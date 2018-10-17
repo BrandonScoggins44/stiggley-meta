@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "stiggley-user": "https://github.com/BrandonScoggins44/stiggley-user.git",
+    "stiggley-gateway": "https://github.com/BrandonScoggins44/stiggley-gateway.git",
+    "stiggley-discovery": "https://github.com/BrandonScoggins44/stiggley-discovery.git"
+  }
+}
